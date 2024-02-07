@@ -11,7 +11,7 @@ Currently there are two ways Leto can scan content for malware.
 
 Important Malware Analyzer Repos:
 - Front end for the Leto Dashboard - https://github.com/Leto-gg/dashboard
-- Leto Auth - https://github.com/Leto-gg/dev-leto-auth
-- Leto API - https://github.com/Leto-gg/dev-leto-api
+- Leto Auth (private) - https://github.com/Leto-gg/dev-leto-auth
+- Leto API (private) - https://github.com/Leto-gg/dev-leto-api
 - Backend Analyzer Relay running on the Leto node to move data to the analyzer sandbox - https://github.com/noryev/DatabaseSync/tree/main
 - Add files to MongoDB - https://github.com/noryev/AnalyzerRelay/tree/main
