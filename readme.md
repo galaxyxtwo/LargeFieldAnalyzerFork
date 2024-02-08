@@ -15,3 +15,4 @@ Important Malware Analyzer Repos:
 - Leto API (private) - https://github.com/Leto-gg/dev-leto-api
 - Backend Analyzer Relay running on the Leto node to move data to the analyzer sandbox - https://github.com/noryev/DatabaseSync/tree/main
 - Add files to MongoDB - https://github.com/noryev/AnalyzerRelay/tree/main
+- Analzer Actions - https://github.com/noryev/analyzer-actions
